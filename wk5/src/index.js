@@ -1,4 +1,5 @@
-// Week 6 partial answer - basic map 
+// Week 5 partial answer - basic map 
+import "leaflet";
 
 const map = L.map("map1");
 
