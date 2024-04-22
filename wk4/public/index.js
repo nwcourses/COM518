@@ -1,10 +1,3 @@
-/*
- * PLEASE NOTE:
- *
- * You can use this code to compare with your lab exercise answer.
- *
- * However this code, or code derived from it, MUST NOT be used in the assignment.
- */
 
 // Handle button clicks on the search button
 document.getElementById("ht_search").addEventListener("click", e=> {
